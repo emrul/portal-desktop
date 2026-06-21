@@ -11,7 +11,7 @@ Apple VideoToolbox encode feeds every connected client.
 ## Install (macOS, Apple Silicon · Sonoma 14+)
 
 ```sh
-brew install --cask emrul/portal/portal
+brew install --cask emrul/portal/portal-desktop
 ```
 
 This installs the notarized **Portal Desktop.app** — a menu-bar app with no other
@@ -32,7 +32,7 @@ dependencies. It encodes via Apple VideoToolbox, so **no ffmpeg** is required.
 4. **Click the video** to take control — keyboard, mouse, and two-finger scroll
    forward to the Mac. Click outside the video to release.
 
-Upgrade with `brew upgrade --cask emrul/portal/portal`.
+Upgrade with `brew upgrade --cask emrul/portal/portal-desktop`.
 
 ## Releases
 
